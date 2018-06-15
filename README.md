@@ -4,5 +4,5 @@ For more details: Head over to http://www.100daysofcode.com/
 
 | Day      | Focus/Topic        |    What I accomplished                                | Link(if applicable)  |
 |----------|--------------------|-------------------------------------------------------|----------------------|
-| Day001 <br> 15/06/2018  | ***     | *** | *** |
+| Day001 <br> 15/06/2018  | Data Analytics| Learnt python for Data Analytics (Analytics Vidya Data Analytics Vidya COurse | NA |
 
