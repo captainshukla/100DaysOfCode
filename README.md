@@ -1,4 +1,4 @@
-# I will code everyday for 100 days form 18-June-2018 to 25-September-2018.
+# I will code everyday for 100 days form 21-June-2018 to 28-September-2018.
 I shall edit this README every day when I'll have finished working for that day.
 For more details: Head over to http://www.100daysofcode.com/
 
