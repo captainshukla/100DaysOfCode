@@ -4,5 +4,5 @@ For more details: Head over to http://www.100daysofcode.com/
 
 | Day      | Focus/Topic        |    What I accomplished                                | Link(if applicable)  |
 |----------|--------------------|-------------------------------------------------------|----------------------|
-| Day001 <br> 18/06/2018  | *** | *** | NA |
+| Day001 <br> 21/06/2018  | *** | *** | NA |
 
